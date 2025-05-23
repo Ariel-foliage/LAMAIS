@@ -9,7 +9,9 @@ DOI: [10.1016/j.aca.2024.343100](https://doi.org/10.1016/j.aca.2024.343100)
 Run `Window_LAMAIS.py` to open the interface.
 
 **Step 01:** Select the input and output folders.
+
 **Step 02:** Adjust the parameter values as needed. Typically, it is recommended to use the default values. Click the "Advanced mode" button to confirm and change the value of δr.
+
 **Step 03:** Click the "Submit" button. LAMAIS will process all spectrum files in the input folder that meet the requirements one by one.
 
 ## About Output:
